@@ -27,6 +27,7 @@ Welcome to my personal portfolio website! This is a responsive and animated port
 
 This project is open-source and free to use.
 
+---
 🙌 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project. 💬
