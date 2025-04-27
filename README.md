@@ -1,4 +1,4 @@
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://https://github.com/Shafiya24karam/Portfolio)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://shafiya24karam.github.io/Portfolio/)
 
 
 🚀 Shafiya Karam - Portfolio
