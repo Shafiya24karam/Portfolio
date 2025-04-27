@@ -7,6 +7,7 @@ Welcome to my personal portfolio website! This is a responsive and animated port
 
 
 📌 Features
+
 ✅ Modern & Clean UI  
 ✅ Fully Responsive Design  
 ✅ Smooth Scroll Navigation  
@@ -16,12 +17,16 @@ Welcome to my personal portfolio website! This is a responsive and animated port
 ---
 
 🛠️ Technologies Used
+
 - HTML - Structure of the website  
 - CSS - Styling and animations  
 - JavaScript - Smooth scrolling & interactive elements  
 
 ---
-🚀 Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shafiya24karam/portfolio.git
+📄 License
+
+This project is open-source and free to use.
+
+🙌 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project. 💬
